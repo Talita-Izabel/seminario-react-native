@@ -6,9 +6,9 @@ Este seminário, tem como objetivo  proporcionar uma visão geral das etapas bá
 
 
 <div style="display: inline-block;">
-    <img src="https://firebasestorage.googleapis.com/v0/b/tsi-jogo.appspot.com/o/tela1.jpeg?alt=media&token=c72b7636-c10c-4c16-ad62-b2ae7568fdbc" alt="Tela de Login" style="width: 30%;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/tsi-jogo.appspot.com/o/tela1.jpeg?alt=media&token=c72b7636-c10c-4c16-ad62-b2ae7568fdbc" alt="Tela de Login" style="width: 10%;">
 </div>
 
 <div style="display: inline-block;">
-    <img src="https://firebasestorage.googleapis.com/v0/b/tsi-jogo.appspot.com/o/tela1.jpeg?alt=media&token=c72b7636-c10c-4c16-ad62-b2ae7568fdbc" alt="Login vem-sucedido!" style="width: 30%;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/tsi-jogo.appspot.com/o/tela1.jpeg?alt=media&token=c72b7636-c10c-4c16-ad62-b2ae7568fdbc" alt="Login vem-sucedido!" style="width: 10%;">
 </div>
